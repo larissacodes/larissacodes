@@ -1,7 +1,7 @@
-### 👋 Olá! Eu sou a Larissa Aguiar.
+### 👋 Olá! Eu sou a Larissa Diniz Aguiar.
 
-📚 Sou analista internacional e pesquiso desenvolvimento econômico, indústria espacial e intituições políticas. Atualmente pós-graduanda em Ciência de Dados,
-mestranda em Ciência Política e muito interessada em unir tecnologia, inovação e desenvolvimento econômico.
+📚 Sou analista internacional e pesquiso tecnologias críticas, cooperação internacional e economia política do desenvolvimento. Atualmente cientista de dados,
+mestre em Ciência Política e muito interessada em estatística e visualização de dados.
 
 #### 🌱 Atualmente aprendendo:
 
