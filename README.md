@@ -1,6 +1,6 @@
 ### 👋 Olá! Eu sou a Larissa Diniz Aguiar.
 
-📚 Sou Bacharel em Relações Internacional (PUC Minas), Mestre em Ciência Política (UFMG) e pesquiso tecnologias críticas, cooperação internacional e economia política do desenvolvimento. Atualmente cientista de dados e muito interessada em estatística inferencial e visualização de dados e informações.
+📚 Sou Cientista de Dados (PUC Minas), Mestre em Ciência Política (UFMG) e pesquiso tecnologias críticas, cooperação internacional e economia política do desenvolvimento. Atualmente interessada em estatística inferencial e visualização de dados e informações.
 
 #### 🌱 Atualmente aprendendo:
 
