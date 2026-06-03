@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Larissa Diniz Aguiar.
-📚 I'm a Data Scientist (PUC Minas), hold a Master's in Political Science (UFMG), and research critical technologies, international cooperation, and the political economy of development. Currently interested in inferential statistics, data and information visualization.
+📚 I'm a Political Scientist (UFMG) and Data Scientist (PUC Minas) working at the intersection of technology, development, and data. I'm interested in technology governance, international cooperation, and the political economy of development.
 
 #### 🌱 Currently learning:
 
