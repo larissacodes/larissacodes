@@ -1,5 +1,5 @@
 ### 👋 Hi! I'm Larissa Diniz Aguiar.
-📚 I'm a Political Scientist (UFMG) and Data Scientist (PUC Minas) working at the intersection of technology, development, and data. Interested in technology governance, AI governance, regulatory compliance, and data-driven public and organizational decision-making.
+📚 I'm a Political Scientist (UFMG) and Data Scientist (PUC Minas) working at the intersection of technology, development, and data. Interested in technology governance, AI governance, regulatory compliance, efficient institutions and in the data-driven public and organizational decision-making.
 
 #### 🌱 Currently learning:
 
