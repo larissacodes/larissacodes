@@ -1,6 +1,6 @@
 ### 👋 Hi! I'm Larissa Diniz.
 
-📚 I'm a Political Scientist (UFMG) and Data Scientist (PUC Minas) working at the intersection of technology, institutions, and development.
+📚 I'm a Political Scientist (MSc, UFMG) and Data Scientist (PUC Minas) working at the intersection of technology, institutions, and development.
 
 I'm interested in technology governance, AI governance, regulatory compliance, and the use of data to support public and organizational decision-making.
 
